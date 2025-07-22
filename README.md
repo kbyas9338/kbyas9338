@@ -42,11 +42,13 @@ A personal portfolio showcasing projects and technical expertise.
 
 ---
 
-### ✅ [**Color Change App**](https://github.com/kbyas9338/color-change)  
-An interactive ReactJS application for dynamic color updates.  
-**Tech:** ReactJS, CSS3  
+### ✅ [**role-based-protected-routes**](https://github.com/kbyas9338/role-based-protected-routes)  
+A ReactJS app demonstrating secure navigation with Role-Based Access Control (RBAC). Different user roles (Admin, User, Guest) have restricted access to specific routes.
+Tech: ReactJS, React Router, CSS3
 
-✔ Real-time color switching UI  
+✔ Secure route protection based on user roles
+✔ Reusable protected route component
+  
 
 ---
 
