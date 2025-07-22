@@ -42,7 +42,7 @@ A personal portfolio showcasing projects and technical expertise.
 
 ---
 
-### ✅ [**role-based-protected-routes**](https://github.com/kbyas9338/role-based-protected-routes)  
+### ✅ [**role-based-protected-routes**](https://role-based-protected-routes.netlify.app/)  
 A ReactJS app demonstrating secure navigation with Role-Based Access Control (RBAC). Different user roles (Admin, User, Guest) have restricted access to specific routes.
 Tech: ReactJS, React Router, CSS3
 
